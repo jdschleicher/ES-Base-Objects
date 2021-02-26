@@ -3,7 +3,9 @@
     "edition": "Developer",
     "hasSampleData": "false",
     "features": ["ServiceCloud", "ServiceWave", "SalesWave"],
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        }
     }
 }

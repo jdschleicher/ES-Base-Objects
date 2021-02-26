@@ -11,7 +11,7 @@
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "45.0",
+    "sourceApiVersion": "50.0",
     "packageAliases": {
         "NEW-ES-Objects": "0Hof4000000CadrCAC",
         "NEW-ES-Objects@0.1.0-1": "04tf40000047rHbAAI"
